@@ -1,0 +1,68 @@
+body{
+  font-family: 'Roboto Mono', monospace;
+
+}
+#title{
+  color: #fff ;
+  background-color: #ff4c68;
+  padding: 3% 15%;
+  line-height: 1.5;
+}
+.right{
+  padding: 10rem;
+}
+h1{
+  font-family: "Montserrat-black ";
+  font-size: 3rem;
+  padding-right: 20rem;
+  padding-bottom: 2rem
+  /*padding-left: 9rem;*/
+}
+h3{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+p{
+  color: grey;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#ff4c68
+}
+
+.navbar-brand{
+  padding-top: 2.5rem;
+font-family: 'Ubuntu', sans-serif;
+font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+}
+.nav-link{
+  font-size: 1.2rem;
+  /*font-family: "Montserrat-Light"*/
+}
+.btn{
+padding: 0 40px;
+}
+.row{
+  padding-top: 4.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.1rem;
+}
+#features{
+  padding: 3% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
